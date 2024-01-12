@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer utilities {
+    .min-w-1000px {
+      min-width: 1600px;
+    }
+  }
+  
